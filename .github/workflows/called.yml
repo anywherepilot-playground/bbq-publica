@@ -1,7 +1,7 @@
 name: Call me
 
 on:
-  workflow_call:
+  #workflow_call:
   workflow_dispatch:
 
 jobs:
